@@ -1,2 +1,2 @@
 # proj1
-first project in git hub
+i learnt how to fork a repository
